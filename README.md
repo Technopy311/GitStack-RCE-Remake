@@ -1,6 +1,11 @@
 # Git Stack RCE Remake
 This is a remake of this script (https://www.exploit-db.com/exploits/43777)
 
+#### GitStack 2.3.10 - Remote Code Execution 
+#### EDB-ID: 43777 
+#### Date: 2018-01-18 
+#### CVE: 2018-5955 
+
 ___
 
 ## Disclaimer
