@@ -1,5 +1,5 @@
-# Git Stack RCE Remake
-This is a remake of this script (https://www.exploit-db.com/exploits/43777)
+# Git Stack RCE 
+This is a migration of this exploit (https://www.exploit-db.com/exploits/43777) from python2 to Python3
 
 #### GitStack 2.3.10 - Remote Code Execution 
 #### EDB-ID: 43777 
@@ -10,19 +10,19 @@ ___
 
 ## Disclaimer
 
-- This remake is 100% my decision, and the original
+- This migration is 100% my decision, and the original
 author has no relation with this remake.
 (appart from the original script).
 
-- This script is free to use, but 
-me (Technopy) the author of this remake, is not responsible
+- This script is free to use. 
+
+-I (Technopy) the author of this remake, is not responsible
 for any illegal use of this material or piece of software.
 
 - If you want to make a fork, publication, or any public 
 showing of this remake (github repository or it's source code), 
-you are (almost) freely allowed to do it, it is mandatory to give the proper credits 
-to the author of this remake (Me).
-
+you are (almost) freely allowed to do it, the only condition is the following:
+Give the proper credits to the author of this remake (Me).
 
 ___
 
@@ -40,5 +40,5 @@ This Remake does the following:
 
 1. Migrates the exploit from Python2 to Python3.
 2. Adds user input.
-3. Adds a little pseudo shell.
-4. Adds a fancy banner.
+3. Adds a pseudo shell.
+4. Adds better customization.
