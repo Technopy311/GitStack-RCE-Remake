@@ -16,7 +16,7 @@ author has no relation with this remake.
 
 - This script is free to use. 
 
--I (Technopy) the author of this remake, is not responsible
+- I (Technopy) the author of this remake, is not responsible
 for any illegal use of this material or piece of software.
 
 - If you want to make a fork, publication, or any public 
